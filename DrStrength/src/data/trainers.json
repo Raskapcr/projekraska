@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Baragan",
+    "expertise": "Yoga & Stretching",
+    "experience": "5 tahun",
+    "contact": "081234567890",
+    "photo": "https://i.pinimg.com/736x/9b/ee/6e/9bee6ef57e97696833de2d6ea870dd0d.jpg"
+  },
+  {
+    "id": 2,
+    "name": "alucard",
+    "expertise": "Cardio & Zumba",
+    "experience": "3 tahun",
+    "contact": "082198765432",
+    "photo": "https://i.pinimg.com/736x/fb/b7/94/fbb79421e66f7899dfe4e0714c308e53.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kingu",
+    "expertise": "Weight Training",
+    "experience": "7 tahun",
+    "contact": "081345678901",
+    "photo": "https://i.pinimg.com/736x/42/c2/4c/42c24c09cb6c7bed2f8cfd950c2dbe71.jpg"
+  }
+]

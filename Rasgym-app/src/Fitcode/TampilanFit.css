@@ -1,0 +1,132 @@
+ /* Styling Umum */
+ body {
+    font-family: 'Merriweather', serif;  
+    background-color: #fffdf8;
+    color: #222; 
+    margin: 0;
+    padding: 15px;
+    line-height: 1.7; 
+}
+
+/* Container Utama */
+.card {
+    max-width: 750px;
+    margin: 25px auto;
+    background: #fff;
+    padding: 20px; 
+    border-radius: 12px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Header */
+/* Header */
+h1 {
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    background: #0f16d3;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 750px; /* Disamakan dengan .card */
+    width: 100%; /* Agar fleksibel di layar kecil */
+    margin: 30px auto 20px; /* Tambahkan margin-top agar turun sedikit */
+}
+
+
+/* Subheader */
+h2 {
+    font-size: 26px; /* Ukuran lebih besar agar lebih menonjol */
+    color: #454241; /* Warna tetap */
+    text-align: center; /* Tengah */
+    font-weight: 800; /* Lebih tebal */
+    font-family: 'Poppins', sans-serif; /* Font yang lebih modern dan profesional */
+    letter-spacing: 1.2px; /* Sedikit jarak antar huruf */
+    padding: 12px 0; /* Padding lebih seimbang */
+}
+
+
+/* Paragraf */
+p {
+    text-align: justify;
+    font-size: 15px;
+    line-height: 1.6;
+    margin-bottom: 14px;
+}
+
+/* Garis Pemisah */
+hr {
+    border: none;
+    height: 2px;
+    background: #581d0b;
+    margin: 15px 0;
+}
+
+/* Tombol Navigasi */
+.nav-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.nav-buttons button {
+    padding: 14px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.nav-buttons .prev {
+    background: #d84315;
+    color: white;
+}
+
+.nav-buttons .prev:hover {
+    background: #bf360c;
+}
+
+.nav-buttons .next {
+    background: #ff6f00;
+    color: white;
+}
+
+.nav-buttons .next:hover {
+    background: #e65100;
+}
+
+/* QnA Styling */
+.qna-item {
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 14px;
+    background: transparent;
+}
+
+/* Product List */
+.product-item {
+    list-style: none;
+    padding: 14px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    font-size: 13px;
+    color: #666;
+       max-width: 750px;
+    margin: 10px auto;
+    background: #fff;
+    padding: 20px; 
+    border-radius: 12px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+}

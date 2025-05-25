@@ -1,0 +1,251 @@
+[
+    {
+      "id": 1,
+      "name": "Personal Training",
+      "description": "Latihan privat bersama pelatih profesional.",
+      "category": "Training",
+      "level": "Beginner",
+      "img": "https://i.pinimg.com/736x/be/a2/3f/bea23fd14e6a899084871cf4fb51f4a5.jpg",
+      "details": {
+        "duration": "240 menit",
+        "price": "Rp1.150.000",
+        "coach": "Kevin levluet"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Yoga Class",
+      "description": "Kelas yoga untuk meningkatkan fleksibilitas dan ketenangan.",
+      "category": "Wellness",
+      "level": "Beginner",
+      "img": "https://i.pinimg.com/736x/7f/28/a4/7f28a4ed785c4e52bb469a54615b8c05.jpg",
+      "details": {
+        "duration": "45 menit",
+        "price": "Rp100.000",
+        "coach": "Sari Dewi"
+      }
+    },
+   
+    {
+      "id": 4,
+      "name": "One arm dumbbell bent-Over row",
+      "description": "Latihan Beban yang fokus melatih otot punggung.",
+      "category": "Wellness",
+      "level": "Intermediate",
+      "img": "https://i.pinimg.com/736x/58/fd/6e/58fd6e9b966ac1dd3bcdc15382f18f4a.jpg",
+      "details": {
+        "duration": "60 menit",
+        "price": "Rp10.000",
+        "coach": "Yoga Wibowo"
+      }
+    },
+    {
+      "id": 5,
+      "name": "HIIT Class",
+      "description": "Intensitas tinggi untuk pembakaran kalori maksimal.",
+      "category": "Cardio",
+      "level": "Advanced",
+      "img": "https://i.pinimg.com/originals/97/9d/a8/979da86b7027825dab392e0eb59661c3.gif",
+      "details": {
+        "duration": "40 menit",
+        "price": "Rp130.000",
+        "coach": "Dian Malik"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Body Pump",
+      "description": "Kelas angkat beban untuk penguatan otot.",
+      "category": "Strength",
+      "level": "Intermediate",
+      "img": "https://i.pinimg.com/originals/51/8f/db/518fdb233b2d9d8ac89fb832eb7b7869.gif",
+      "details": {
+        "duration": "55 menit",
+        "price": "Rp120.000",
+        "coach": "Arman Hakim"
+      }
+    },
+    {
+      "id": 7,
+      "name": "CrossFit",
+      "description": "Latihan intensitas tinggi dengan variasi gerakan fungsional.",
+      "category": "Strength",
+      "level": "Advanced",
+      "img": "https://i.pinimg.com/736x/97/25/90/972590d5d483f3dccdf7fbfb9f29c219.jpg",
+      "details": {
+        "duration": "45 menit",
+        "price": "Rp140.000",
+        "coach": "Nadia Prasetyo"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Aerobik",
+      "description": "Latihan ritmis untuk kebugaran jantung.",
+      "category": "Cardio",
+      "level": "Beginner",
+      "img": "https://i.pinimg.com/736x/7e/df/66/7edf66ee5017927210ddec69d8db6816.jpg",
+      "details": {
+        "duration": "50 menit",
+        "price": "Rp80.000",
+        "coach": "Budi Setiawan"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Kickboxing",
+      "description": "Campuran latihan bela diri dan kardio.",
+      "category": "Training",
+      "level": "Advanced",
+      "img": "https://i.pinimg.com/736x/12/10/99/1210993a11729fbe5b9bb14e4fa1413a.jpg",
+      "details": {
+        "duration": "60 menit",
+        "price": "Rp135.000",
+        "coach": "Faisal Akbar"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Functional Training",
+      "description": "Latihan untuk memperbaiki gerakan harian tubuh.",
+      "category": "Training",
+      "level": "Intermediate",
+      "img": "https://i.pinimg.com/originals/34/5c/d9/345cd9414e1e743debd278eaddf33473.gif",
+      "details": {
+        "duration": "50 menit",
+        "price": "Rp100.000",
+        "coach": "Mira Andayani"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Tabata",
+      "description": "Latihan interval pendek tapi intens.",
+      "category": "Cardio",
+      "level": "Advanced",
+      "img": "https://i.pinimg.com/736x/84/bc/68/84bc689cc68c7c510ebd745999902f11.jpg",
+      "details": {
+        "duration": "30 menit",
+        "price": "Rp90.000",
+        "coach": "Dian Wirawan"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Core Stability",
+      "description": "Fokus pada otot inti dan postur tubuh.",
+      "category": "Strength",
+      "level": "Intermediate",
+      "img": "https://i.pinimg.com/736x/02/27/c4/0227c40c3b0581330f0a0b2f37d0da9f.jpg",
+      "details": {
+        "duration": "40 menit",
+        "price": "Rp85.000",
+        "coach": "Laras Sari"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Spin Class",
+      "description": "Latihan sepeda statis dengan musik dan intensitas tinggi.",
+      "category": "Cardio",
+      "level": "Intermediate",
+      "img": "https://i.pinimg.com/originals/24/08/6c/24086c4039855257c6810df6f8e40539.gif",
+      "details": {
+        "duration": "45 menit",
+        "price": "Rp110.000",
+        "coach": "Rio Gunawan"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Body Combat",
+      "description": "Latihan ala bela diri untuk membakar kalori.",
+      "category": "Training",
+      "level": "Advanced",
+      "img": "https://i.pinimg.com/originals/dc/a5/1d/dca51d219f405ed282bab8cf9aa8c572.gif",
+      "details": {
+        "duration": "55 menit",
+        "price": "Rp120.000",
+        "coach": "Tasya Nabila"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Stretch & Relax",
+      "description": "Sesi peregangan ringan dan relaksasi.",
+      "category": "Wellness",
+      "level": "Beginner",
+      "img": "https://i.pinimg.com/originals/4e/44/05/4e44055306b4f64a89c3cf344ebe9cc1.gif",
+      "details": {
+        "duration": "30 menit",
+        "price": "Rp70.000",
+        "coach": "Putri Amalia"
+      }
+    },
+    {
+      "id": 16,
+      "name": "TRX Training",
+      "description": "Latihan menggunakan tali TRX untuk kekuatan tubuh.",
+      "category": "Strength",
+      "level": "Advanced",
+      "img": "https://i.pinimg.com/originals/00/dd/af/00ddaf273de0b967039b4272d559214e.gif",
+      "details": {
+        "duration": "45 menit",
+        "price": "Rp125.000",
+        "coach": "Indra Wahyudi"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Dance Fit",
+      "description": "Latihan dansa energik yang menyenangkan.",
+      "category": "Cardio",
+      "level": "Beginner",
+      "img": "https://i.pinimg.com/originals/73/87/37/738737293c5d22e7fccefd61c26bcd7f.gif",
+      "details": {
+        "duration": "50 menit",
+        "price": "Rp90.000",
+        "coach": "Sinta Lestari"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Strength Circuit",
+      "description": "Sesi kekuatan dalam format sirkuit.",
+      "category": "Strength",
+      "level": "Advanced",
+      "img": "https://i.pinimg.com/originals/39/c0/a0/39c0a01885af34f0c6d86a2683e7f832.gif",
+      "details": {
+        "duration": "50 menit",
+        "price": "Rp115.000",
+        "coach": "Robby Seto"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Meditation",
+      "description": "Latihan meditasi untuk kesehatan mental.",
+      "category": "Wellness",
+      "level": "Beginner",
+      "img": "https://i.pinimg.com/originals/b8/cb/23/b8cb231cee5436ddc5e93f5bd6913def.gif",
+      "details": {
+        "duration": "30 menit",
+        "price": "Rp75.000",
+        "coach": "Ayu Kartika"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Bootcamp",
+      "description": "Latihan luar ruangan dengan berbagai tantangan fisik.",
+      "category": "Training",
+      "level": "Intermediate",
+      "img": "https://i.pinimg.com/originals/f4/15/1a/f4151a49790d498ab7e455770fecd63b.gif",
+      "details": {
+        "duration": "60 menit",
+        "price": "Rp135.000",
+        "coach": "Yusuf Rahman"
+      }
+    }
+  ]
+  
