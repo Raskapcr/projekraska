@@ -2,7 +2,7 @@ import "./assets/tailwind.css";
 import React, { Suspense } from "react";
 import { Route, Routes } from "react-router-dom";
 import Loading from "./components/Loading";
-
+import Notes from "./pages/Notes";
 // import Dashboard from "./pages/Dashboard";
 // import Trainers from "./pages/Trainers";
 // import Exercise from "./pages/Exercise";
@@ -39,6 +39,7 @@ function App() {
           <Route path="/Trainers" element={<Trainers />} />
           <Route path="/Exercise" element={<Exercise />} />
           <Route path="/Class" element={<Class />} />
+          <Route path="/notes" element={<Notes/>}/>
           <Route path="/NotFound400" element={<NotFound400 />} />
           <Route path="/NotFound401" element={<NotFound401 />} />
           <Route path="/NotFound403" element={<NotFound403 />} />
